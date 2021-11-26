@@ -1,2 +1,5 @@
 # bf
-bf Interpreter
+PHPによるbfインタプリタ.
+
+# comment
+酔った勢いで作ったので、いろいろ雑です。
